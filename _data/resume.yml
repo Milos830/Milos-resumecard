@@ -5,9 +5,9 @@ demo: true
 # you don't have to restart Jekyll to see changes.
 
 photo: "https://avatars0.githubusercontent.com/u/2410692?v=2&s=150"
-name: "Elle Kasai"
+name: "Miloš Milivojević"
 # copy: "I'm a UI/UX Developer based in Vancouver, Canada. More than five years of experience in design/development and have a passion for giving back to the local tech community as an instructor."
-copy: "I'm a UI/UX Developer based in Vancouver, Canada. Five years experience in design/development and my specialty is information architecture as well as rapid prototyping with scalable/modular CSS."
+copy: "I'm a Junior Java Developer with seven months experience. I'd like to improve myself in the field of backend development and would like to learn new technologies that will help me to become a master of backend development."
 
 # Color scheme based on http://www.materialui.co/colors.
 # Possible values:
@@ -19,4 +19,4 @@ copy: "I'm a UI/UX Developer based in Vancouver, Canada. Five years experience i
 # - purple
 # - teal
 # - green
-color: default
+color: blue
